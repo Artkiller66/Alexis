@@ -388,7 +388,7 @@ h2{
 
 .close:hover,
 .close:focus {
-   cursor: pointer;
+    cursor: pointer;
 }
 .modal-body {
     position: relative;
